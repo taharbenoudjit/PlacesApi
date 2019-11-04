@@ -1,0 +1,121 @@
+ [
+     {
+         "Europe":[
+             {"img":"https://www.google.com/search?client=ubuntu&channel=fs&biw=1313&bih=639&tbm=isch&sxsrf=ACYBGNTS2ySenKihcFC5zoRiQSKMD7sxxQ%3A1572879968677&sa=1&ei=YD7AXZz5KNCLlwTD2L_oDA&q=europe+combination+cities&oq=europe+combination+cities&gs_l=img.3...5384.10277..10437...0.0..0.51.804.19......0....1..gws-wiz-img.......0i67j0j0i10j0i5i30j0i8i30j0i24.d4neijf9nvU&ved=0ahUKEwicqbq-6tDlAhXQxYUKHUPsD80Q4dUDCAY&uact=5#imgdii=WK-6U3ZUbqv7AM:&imgrc=EFEflAb229XT5M:"},
+             {
+             "Paris":[
+                 
+                 {
+                     "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paris_-_Eiffelturm_und_Marsfeld2.jpg/1200px-Paris_-_Eiffelturm_und_Marsfeld2.jpg"
+                 },
+                 {
+                     "name": "sacré coeur",
+                     "image":"https://www.grandearche.com/wp-content/uploads/2018/08/La-Basilique-du-sacr%C3%A9-coeur-Montmartre-et-lesplanade.jpg",
+                     "Historique":"construction du Sacré-Cœur prend source en 1870" ,
+                     "Description":"est l’un des monuments emblématiques de Paris. Située au sommet de la butte Montmartre, elle offre une des plus belles vues panoramiques de la capitale, à 130 mètres d’altitude. De style romano-byzantin, la basilique est reconnaissable à sa couleur blanche. A l’intérieur de l’édifice, le plafond est décoré de la plus grande mosaïque de France, mesurant 480 m². La crypte mérite aussi une visite. Et pour prendre encore plus de hauteur, le visiteur peut accéder au dôme, d’où la vue de Paris à 360° est magnifique. À quelques pas de la basilique, se trouvent la place du Tertre, le quartier des Abbesses aux petites rues escarpées, et au pied de la butte, le célèbre cabaret du Moulin ",
+                     "toDo":"Panorama sur Paris depuis le Dôme"
+                 },
+
+                 {
+                     "name":"Tour Eiffel",
+                     "image":"https://img-4.linternaute.com/cv2k3btDzZhtnviFc3M3asFIr2Y=/1240x/smart/7244e5210e52400fa046c092d12d307f/ccmcms-linternaute/11468236.jpg",
+                     "Historique":"La Tour Eiffel est une structure métallique conçue par l'ingénieur français Alexandre-Gustave Eiffel pour l'Exposition universelle de 1889 à Paris, organisée pour commémorer le centenaire de la Révolution française",
+                     "Description":"La Tour Eiffel, devenue le symbole de la France et de sa capitale, est une tour de fer puddlé construite par Gustave Eiffel et ses collaborateurs pour l'exposition universelle de 1889. Initialement nommé la tour de 300 mètres, ce monument a été pensé par Eiffel",
+                     "toDo":["Voire l'ensemble de laville en haut de la tour","passer des temps dans les parcs au tour"]
+                 }
+                 
+             ],
+
+             "Amesterdam":[
+                 {
+                     "img":"https://www.holland.com/upload_mm/2/4/9/69115_fullimage_hotel_amsterdam_%20redcharlie.jpg"
+                 },
+                 {
+                     "name":"Place du Dam",
+                     "image":"https://www.holland.com/upload_mm/2/3/f/610_fullimage_amsterdam%20koninklijkpaleis%20vrede-op-gevel.jpg.jpg",
+                     "Historique":"Cette place a connu une histoire mouvementée. Aux alentours de 1270, on construisit à son niveau un barrage sur la rivière Amstel. La place du Dam était jadis la principale place de marché d’Amsterdam, où l’on pouvait acheter à peu près tout ce qui peut être vendu",
+                     "Description":"La place du Dam, c’est un peu l’âme d’Amsterdam. Cette place, qui autrefois grouillait d’animation, est aujourd'hui un havre de paix qu’affectionnent les pigeons et que fréquentent de nombreux artistes de rue.",
+                     "toDo":["Voire","Voire"]
+                 }
+
+             ]
+             
+
+         }],
+
+        "Amérique du Nord":[
+            {
+                "img":"https://www.google.com/search?client=ubuntu&channel=fs&biw=1313&bih=639&tbm=isch&sxsrf=ACYBGNRasuMqe0lzk6iwtbHgsc6lO-LBXQ%3A1572879980027&sa=1&ei=bD7AXdOeAcWIlwSf-afICA&q=north+america+combination+cities&oq=north+america+combination+cities&gs_l=img.3...77258.84793..84961...2.0..0.51.654.15......0....1..gws-wiz-img.JeFVzzB4Aw4&ved=0ahUKEwjThO_D6tDlAhVFxIUKHZ_8CYkQ4dUDCAY&uact=5#imgrc=pubp5n2bTLZ_LM:"
+            },
+            {
+            "New York":[
+                {
+                    "img":"https://cdn.getyourguide.com/img/location_img-59-1969619245-148.jpg"
+                },
+                {
+                    "name":"Statue de la Liberté",
+                    "image":"data:image/jpeg;base64,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",
+                    "Historique":" le sculpteur français Bartholdi qui a créé la Statue de la Liberté en 1884. Mais cette statue est un cadeau de la France aux Etats-Unis pour fêter l'indépendance américaine. Elle a donc été construite à Paris, démontée et transportée par bateau en Amérique.",
+                    "Description":"La statue de la Liberté, en plus d'être un monument très important de la ville de New York, est devenue l'un des symboles des États-Unis et représente de manière plus générale la liberté et l'émancipation vis-à-vis de l'oppression",
+                    "toDo":"visit"
+                },
+                {
+                    "name":"Central Park",
+                    "image":"https://newyorkmonamour.fr/wp-content/uploads/2018/10/surface-totale-central-park.jpg",
+                    "Historique":"Le parc fut créé en 1857 suite à la volonté de la population qui souhaitait un espace vert dans la ville. ... L'Etat décide alors de construire le parc sur un terrain en friche. Suite à un concours pour les plans du futur projet",
+                    "Description":"Central Park est un espace vert américain d'une superficie de 341 hectares, situé dans l'arrondissement de Manhattan à New York.",
+                    "toDo":"vous pouvez profiter de l'espace vert avec le calme qui donne l'impression que vous êtes au milieu d'une forêt"
+
+                }
+            ],
+            "San Francisco":[
+                {
+                    "img":"https://www.google.com/search?q=san+francisco&client=ubuntu&channel=fs&sxsrf=ACYBGNTWnUd-nPvEda155iqMTPbR-bWNIw:1572877855675&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiU-vLO4tDlAhVbDmMBHZVyB4wQ_AUIEigC&biw=1313&bih=639#imgrc=og7QjtQZMV-WxM:"
+
+                },
+                {
+                    "name":"Prison fédérale d'Alcatraz",
+                    "image":"http://www.office-tourisme-usa.com/sites/default/files/styles/large_fat/public/media/safari-jail-sail-photographs-alcatraz-island-prison.jpg?itok=OGxaMowm",
+                    "Historique":"Célèbre prison ayant accueilli Al Capone, aujourd'hui devenue un musée avec audioguides, accessible en ferry",
+                    "Description":"L'île d'Alcatraz, en anglais Alcatraz Island, est une île située dans la baie de San Francisco à 1,92 km du port de San Francisco en Californie, dans l'Ouest des États-Unis. Elle fut nommée ainsi par les Espagnols car elle servait de refuge à de nombreux pélicans.",
+                    "toDo":"faire une visite à les plus grand prisons du monde qui devient un mussée"
+
+                },
+                {
+                    "name":"Pont du Golden Gate",
+                    "image":"https://cdn.futura-sciences.com/buildsv6/images/mediumoriginal/4/4/9/4490ef5c3a_120458_pont-golden-gate-san-francisco-lumieres.jpg",
+                    "Historique":"sa construction, qui se heurte à de nombreuses difficultés, débute en 1933 et s’étale sur une durée de quatre ans, pour s’achever en 1937.",
+                    "Description":"Le pont du Golden Gate est jusqu'en 1964 le pont suspendu le plus long du monde et constitue aujourd'hui le monument le plus célèbre de San Francisco.",
+                    "toDo":"profitez de l'architecture de l'un des plus beaux ponts du monde"
+
+                    
+                }
+            ]
+        }],
+        "Australie":[
+            {
+                "img":"https://wikitravel.org/upload/shared//c/c9/Australia_Banner.jpg"
+            },
+            {
+            "Sydney":[ 
+                {
+                    "img":"https://www.connections.be/~/media/images/connections/vliegtickets-f/oceanie/sydney/sydneybay.jpg"
+                },
+                {
+                    "name":"Opéra de Sydney",
+                    "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sydney_Opera_House_Night.jpg/1024px-Sydney_Opera_House_Night.jpg",
+                    "Historique":"La construction de l'opéra, de 1958 à 1973, est achevée par un groupe d'architectes locaux. ",
+                    "Description":"L’opéra de Sydney, à Sydney, est l'un des plus célèbres bâtiments du XXᵉ siècle et un haut-lieu de représentation des arts notamment lyriques. Son architecture originale, qui ressemble à un voilier pour les uns, ou à un coquillage pour les autres, a été imaginée par le Danois Jørn Utzon",
+                    "toDo":["Australian Ballet","Opera Australia","Sydney Theatre Company"]
+                },
+                {
+                    "name":"Plage de Bondi",
+                    "image":"https://i1.wp.com/travellingwithsmile.com/wp-content/uploads/2019/01/DJI_0788.jpg?fit=1900%2C1503&ssl=1",
+                    "Description":"En forme de croissant, l'immense plage de sable blanc de Bondi est l'une des plus célèbres d'Australie. Ses vagues attirent les surfeurs, et les plus courageux nagent toute l'année dans la piscine océanique Icebergs voisine",
+                    "toDo":["surfing","nage"]
+                }
+            ]
+        }]
+
+     }
+ ]
