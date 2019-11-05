@@ -36,6 +36,13 @@
                      "Historique":"Cette place a connu une histoire mouvementée. Aux alentours de 1270, on construisit à son niveau un barrage sur la rivière Amstel. La place du Dam était jadis la principale place de marché d’Amsterdam, où l’on pouvait acheter à peu près tout ce qui peut être vendu",
                      "Description":"La place du Dam, c’est un peu l’âme d’Amsterdam. Cette place, qui autrefois grouillait d’animation, est aujourd'hui un havre de paix qu’affectionnent les pigeons et que fréquentent de nombreux artistes de rue.",
                      "toDo":["Voire","Voire"]
+                 },
+                 {
+                     "name":"Musée Van Gogh",
+                     "image":"https://generationvoyage.fr/wp-content/uploads/2017/01/van-gogh-museum-amsterdam.jpg",
+                     "Historique":"Le musée Van Gogh, entièrement consacré au peintre néerlandais Vincent van Gogh, est un musée néerlandais, fondé en 1973, situé à Amsterdam sur la place du Musée (Museumplein). ",
+                     "Description":"Le musée possède la plus grande collection au monde d'œuvres de Vincent van Gogh. La collection comprend plus de 220 tableaux, 500 dessins et 800 lettres de cet artiste. Le musée présente également de nombreuses œuvres d'autres peintres de la fin du XIXe siècle.",
+                     "toDo":"Laissez Van Gogh vous éblouir par son œuvre incroyable et découvrez comment il a influencé l’histoire de l’art."
                  }
 
              ]
