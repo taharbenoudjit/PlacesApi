@@ -1,4 +1,6 @@
- [
+ 
+    { 
+        "placesList": [
                  {
                      "name": "sacré coeur",
                      "image":"https://www.grandearche.com/wp-content/uploads/2018/08/La-Basilique-du-sacr%C3%A9-coeur-Montmartre-et-lesplanade.jpg",
@@ -12,7 +14,7 @@
                      "image":"https://img-4.linternaute.com/cv2k3btDzZhtnviFc3M3asFIr2Y=/1240x/smart/7244e5210e52400fa046c092d12d307f/ccmcms-linternaute/11468236.jpg",
                      "Historique":"La Tour Eiffel est une structure métallique conçue par l'ingénieur français Alexandre-Gustave Eiffel pour l'Exposition universelle de 1889 à Paris, organisée pour commémorer le centenaire de la Révolution française",
                      "Description":"La Tour Eiffel, devenue le symbole de la France et de sa capitale, est une tour de fer puddlé construite par Gustave Eiffel et ses collaborateurs pour l'exposition universelle de 1889. Initialement nommé la tour de 300 mètres, ce monument a été pensé par Eiffel",
-                     "toDo":["Voire l'ensemble de laville en haut de la tour","passer des temps dans les parcs au tour"]
+                     "toDo":"Voire l'ensemble de laville en haut de la tour"
                  },
                  
              
@@ -24,7 +26,7 @@
                      "image":"https://www.holland.com/upload_mm/2/3/f/610_fullimage_amsterdam%20koninklijkpaleis%20vrede-op-gevel.jpg.jpg",
                      "Historique":"Cette place a connu une histoire mouvementée. Aux alentours de 1270, on construisit à son niveau un barrage sur la rivière Amstel. La place du Dam était jadis la principale place de marché d’Amsterdam, où l’on pouvait acheter à peu près tout ce qui peut être vendu",
                      "Description":"La place du Dam, c’est un peu l’âme d’Amsterdam. Cette place, qui autrefois grouillait d’animation, est aujourd'hui un havre de paix qu’affectionnent les pigeons et que fréquentent de nombreux artistes de rue.",
-                     "toDo":["Voire","Voire"]
+                     "toDo":"Voire"
                  },
                  {
                      "name":"Musée Van Gogh",
@@ -71,12 +73,14 @@
                     "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Sydney_Opera_House_Night.jpg/1024px-Sydney_Opera_House_Night.jpg",
                     "Historique":"La construction de l'opéra, de 1958 à 1973, est achevée par un groupe d'architectes locaux. ",
                     "Description":"L’opéra de Sydney, à Sydney, est l'un des plus célèbres bâtiments du XXᵉ siècle et un haut-lieu de représentation des arts notamment lyriques. Son architecture originale, qui ressemble à un voilier pour les uns, ou à un coquillage pour les autres, a été imaginée par le Danois Jørn Utzon",
-                    "toDo":["Australian Ballet","Opera Australia","Sydney Theatre Company"]
+                    "toDo":"Australian Ballet"
                 },
                 {
                     "name":"Plage de Bondi",
                     "image":"https://i1.wp.com/travellingwithsmile.com/wp-content/uploads/2019/01/DJI_0788.jpg?fit=1900%2C1503&ssl=1",
                     "Description":"En forme de croissant, l'immense plage de sable blanc de Bondi est l'une des plus célèbres d'Australie. Ses vagues attirent les surfeurs, et les plus courageux nagent toute l'année dans la piscine océanique Icebergs voisine",
-                    "toDo":["surfing","nage"]
+                    "toDo":"surfing"
                 }
-]
+            ]
+
+        }        
